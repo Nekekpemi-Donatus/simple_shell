@@ -159,8 +159,8 @@ $
 
 # Authors & Copyrights
 
-Idowu Iyanuoluwa G. (https://github.com/Giddyware) and
-Eke I. David (https://github.com/David-Davincci)
+Nekekpemi Donatus Oyinmiebi and
+Michael Onoja
 
 # More information
 
